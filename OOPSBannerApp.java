@@ -1,7 +1,3 @@
-/**
- * * @author Falullah 
- * @version 1.0
- */
 public class OOPSBannerApp {
 
   
