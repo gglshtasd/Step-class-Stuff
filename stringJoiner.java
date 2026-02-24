@@ -1,3 +1,4 @@
+public class stringJoiner {
 public static void main(String[] args) {
     
     
@@ -16,4 +17,5 @@ public static void main(String[] args) {
     System.out.println(row5);
     System.out.println(row6);
     System.out.println(row7);
+}
 }
